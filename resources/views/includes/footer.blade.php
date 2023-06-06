@@ -1,0 +1,1 @@
+<div id="copyright text-right">KodeGo WD58P - Ralph Ronnie Joshua</div>
